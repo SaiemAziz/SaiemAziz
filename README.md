@@ -3,23 +3,22 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+{}{}+++{}+{}+{}+{}+I'm+Md.+Abu+Saiem+Aziz+Chowdhury+{}+{}+{}+{}" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Visitor!+👋;+{}{}+++{}+{}+{}+{}+I'm+Md.+Abu+Saiem+Aziz+Chowdhury+{}+{}+{}+{}" />
 </h1>
-<h3 align="center">A passionate Mern Stack Developer From Bangladesh.</h3>
+<h3 align="center">A passionate MERN Stack Developer From Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
+- 📄 Know about me from my <a target="_blank" href="https://drive.google.com/file/d/1gvhKt7IbZXZf9zsESlv662981JMeJ8VF/view">Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href='https://portfolio-saiemaziz.vercel.app'>Portfolio</a>
+- 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-saiemaziz.vercel.app'>Portfolio</a>
 
-- 💬 Ask me about **react,javascript,html,my sql,post man ,git**
+- 📫 You can reach me through my official **** <a target="_blank" href='mailto:sayemazizchy@gmail.com'>Email</a>
 
-- 📫 How to reach me **sayemazizchy@gmail.com**
+<!-- - 💬 Ask me about **react,javascript,html,my sql,post man ,git** -->
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gvhKt7IbZXZf9zsESlv662981JMeJ8VF/view">Resume</a>
+<!-- - ⚡ Fun fact **learning Javascript makes you to solve problems faster** -->
 
-- ⚡ Fun fact **learning Javascript makes you to solve problems faster**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-abu-saiem-aziz-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abu-saiem-aziz-chowdhury" height="30" width="40" /></a>
 <a href="https://fb.com/sayem.azizchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayem.azizchowdhury" height="30" width="40" /></a>
