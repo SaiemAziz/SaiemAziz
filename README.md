@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Visitor!+👋;+{}{}+++{}+{}+{}+{}+I'm+Md.+Abu+Saiem+Aziz+Chowdhury+{}+{}+{}+{}" />
 </h1>
 <h3 align="center">A passionate MERN Stack Developer From Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 - 📄 Know about me from my <a target="_blank" href="https://drive.google.com/file/d/1gvhKt7IbZXZf9zsESlv662981JMeJ8VF/view">Resume</a>
 
@@ -17,6 +17,10 @@
 <!-- - 💬 Ask me about **react,javascript,html,my sql,post man ,git** -->
 
 <!-- - ⚡ Fun fact **learning Javascript makes you to solve problems faster** -->
+
+
+
+
 
 <h3 align="left">Social:</h3>
 <p align="left">
