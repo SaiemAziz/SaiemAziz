@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-saiemaziz.vercel.app'>Portfolio</a>
 
-- 📫 You can reach me through my official **** <a target="_blank" href='mailto:sayemazizchy@gmail.com'>Email</a>
+- 📫 You can reach me through my official <a target="_blank" href='mailto:sayemazizchy@gmail.com'>Email</a>
 
 <!-- - 💬 Ask me about **react,javascript,html,my sql,post man ,git** -->
 
