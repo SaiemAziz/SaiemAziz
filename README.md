@@ -7,20 +7,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=40&duration=3000&lines=Hi+Visitor!+👋;I+am;Md.+Abu+Saiem+Aziz+Chowdhury+😎;Nice+To+Meet+You+😁" />
 </h1>
-<img src="./images/welcome.gif" style="width: 100%; aspect-ratio: 3; object-fit: cover; object-position: center; border-radius: 20px; opacity:.5;"/>
+<!-- <img src="./images/welcome.gif" style="width: 100%; aspect-ratio: 3; object-fit: cover; object-position: center; border-radius: 20px; opacity:.5;"/> -->
 <!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"> -->
 
-<div style="display: flex; align-items: center">
-<div>
+<img align="right" alt="Coding" width="250" src="./images/half-laptop-bg2.gif">
 
-- 📄 Know about me from my <a target="_blank" style="font-weight: bold; " href="https://tinyurl.com/saiem-resume">Resume</a>
+- 📄 Know about me from my <a target="_blank" href="https://drive.google.com/file/d/1gvhKt7IbZXZf9zsESlv662981JMeJ8VF/view">Resume</a>
 
-- 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" style="font-weight: bold; " href='https://portfolio-saiemaziz.vercel.app'>Portfolio</a>
+- 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-saiemaziz.vercel.app'>Portfolio</a>
 
-- 📫 You can reach me through my official <a target="_blank" style="font-weight: bold; " href='mailto:sayemazizchy@gmail.com'>Email</a>
-</div>
-<img src="./images/half-laptop-bg2.gif" style="width: 250px"/>
-</div>
+- 📫 You can reach me through my official <a target="_blank" href='mailto:sayemazizchy@gmail.com'>Email</a>
 
 <!-- - 💬 Ask me about **react,javascript,html,my sql,post man ,git** -->
 
