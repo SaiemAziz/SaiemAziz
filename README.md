@@ -2,13 +2,28 @@
 
 
 <!-- <h4 align="center" style="font-weight: thin;">A Passionate</h4>  -->
-<h2 align="center" style="font-weight: bold; ;background:#00ffff20; padding: 5px 30px 8px; border-radius: 100px; margin:-10px 0px -20px;">Associate Software Engineer</h2>
+<svg fill="none" width="100%" height="70" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <h2 align="center" style="font-weight: bold; ;background:#00ffff20; padding: 5px 30px 8px; border-radius: 100px; margin:10px 0px -20px;">Associate Software Engineer</h2>
 <h4 align="center"> Chittagong, Bangladesh.</h4>
+    </div>
+  </foreignObject>
+</svg>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=40&duration=3000&lines=Hi+Visitor!+👋;I+am;Md.+Abu+Saiem+Aziz+Chowdhury+😎;Nice+To+Meet+You+😁" />
 </h1>
-<img src="./images/welcome.gif" style="width: 100%; aspect-ratio: 3; object-fit: cover; object-position: center; border-radius: 20px; opacity:.5;"/>
+<svg fill="none" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+<img src="./images/welcome.gif" width="100%" style="height: 250;object-fit:cover; object-position: center; opacity: 0.5; border-radius: 30px"/>
+      
+    </div>
+  </foreignObject>
+</svg>
 <!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"> -->
 
 <img align="right" alt="Coding" width="250" src="./images/half-laptop-bg2.gif">
