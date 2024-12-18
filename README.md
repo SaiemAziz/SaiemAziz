@@ -7,8 +7,7 @@
 
 <h3 align="center">Associate Software Engineer</h3>
 <h5 align="center" style="font-weight: thin;"> 
-Chittagong, Bangladesh<br/>
-+8801763-536733
+Chittagong, Bangladesh
 </h5>
 <img src="./images/welcome.gif" width="100%" />
 <!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"> -->
