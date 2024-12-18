@@ -1,13 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SaiemAziz&label=Profile%20views&color=0e75b6&style=flat" alt="SaiemAziz" /> </p>
 
 
-<h3 align="center" style="font-weight: thin;">A Passionate<br/> 
-<span style="font-weight: bold; font-size: 1.2em;background:#00ffff20; padding: 5px 30px 8px; border-radius: 100px;">Associate Software Engineer</span><br/> Chittagong, Bangladesh.</h3>
+<!-- <h4 align="center" style="font-weight: thin;">A Passionate</h4>  -->
+<h2 align="center" style="font-weight: bold; ;background:#00ffff20; padding: 5px 30px 8px; border-radius: 100px; margin:-10px 0px -20px;">Associate Software Engineer</h2>
+<h4 align="center"> Chittagong, Bangladesh.</h4>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=40&duration=3000&lines=Hi+Visitor!+👋;I+am;Md.+Abu+Saiem+Aziz+Chowdhury+😎;Nice+To+Meet+You+😁" />
 </h1>
-<!-- <img src="./images/welcome.gif" style="width: 100%; aspect-ratio: 3; object-fit: cover; object-position: center; border-radius: 20px; opacity:.5;"/> -->
+<img src="./images/welcome.gif" style="width: 100%; aspect-ratio: 3; object-fit: cover; object-position: center; border-radius: 20px; opacity:.5;"/>
 <!-- <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"> -->
 
 <img align="right" alt="Coding" width="250" src="./images/half-laptop-bg2.gif">
